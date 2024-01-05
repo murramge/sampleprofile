@@ -1,2 +1,1 @@
-# sampleprofile.github.io
-sampleprofile
+https://murramge.github.io/sampleprofile/
